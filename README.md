@@ -9,7 +9,9 @@
 - [x] Uso de HTMl
 - [x] Uso de CSS
 - [x] Uso de JavaScript
-- [x] Uso de Node.js 
+- [x] Uso de Node.js
+- [x] Uso de Insomnia
+      
 
 
 ## 🤝 Bibliotecas/Frameworks
@@ -17,6 +19,7 @@
 - [x] Styled-Components
 - [x] Express
 - [x] Axios
+- [x] Cors
 - [x] React.js
 
 
